@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Juan Ignacio Giannone ⚽🏃‍♂️
 
-<!--
-**JuaniGiannone04/JuaniGiannone04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **Computer Systems Analysis** at **University of Buenos Aires**.
 
-Here are some ideas to get you started:
+## 💻 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `Python`
+- `C`
+- `JavaScript`
+
+## 🧠 Interests
+
+- Writing efficient software (algorithms and data structures)
+- Occasional video editing and photography 🎥📸
+
+## 📫 How to reach me
+
+- 📧 juanigiannone@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-ignacio-giannone-077a27267)
+
+---
+
+> *"Always learning, always building."*
+
