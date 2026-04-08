@@ -2,7 +2,7 @@
 
 I'm currently studying **Computer Systems Analysis** at **University of Buenos Aires**.
 
-## 💻 Languages
+## 💻 My skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,git,java,linux,notion,py,)](https://skillicons.dev)
 
