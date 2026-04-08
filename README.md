@@ -22,4 +22,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 > *"Always learning, always building."*
 
-![This is fine](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUxcnk1c3VlMG1wbGZjczkxYzBhdmJ3a25lZnp1a2VxdWszdmxkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif" width="400"/>
+</p>
