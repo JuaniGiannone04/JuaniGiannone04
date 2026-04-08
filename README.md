@@ -8,7 +8,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 ## 🚀 Projects
 
-[![Mis Programas Personales](https://github-readme-stats.vercel.app/api/pin/?username=JuaniGiannone04&repo=mis-programas-personales&theme=dark)](https://github.com/JuaniGiannone04/mis-programas-personales)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github)](https://github.com/JuaniGiannone04/mis-programas-personales)
 
 
 ## > "This is fine."
