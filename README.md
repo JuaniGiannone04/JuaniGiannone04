@@ -15,7 +15,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 - 📧 juanigiannone@gmail.com  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-ignacio-giannone-077a27267)
-[📧 Email](mailto:juanignannone@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:juanignannone@gmail.com)
 
 ---
 
