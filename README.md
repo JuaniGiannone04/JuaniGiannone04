@@ -2,6 +2,12 @@
 
 I'm currently studying **Computer Systems Analysis** at **University of Buenos Aires**.
 
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNwZWNyOG51eDRsc2IxMHBiZXloOGJicmhtenl0amczbmVrYjJmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="400"/>
+</p>
+
+
 ## 💻 My skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,git,bash,regex,replit,vscode,linux,ubuntu,windows,notion)](https://skillicons.dev)
@@ -21,8 +27,3 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 ---
 
 > *"Always learning, always building."*
-
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUxcnk1c3VlMG1wbGZjczkxYzBhdmJ3a25lZnp1a2VxdWszdmxkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif" width="400"/>
-</p>
