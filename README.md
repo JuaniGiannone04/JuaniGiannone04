@@ -11,11 +11,10 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 - Writing efficient software (algorithms and data structures)
 - Occasional video editing and photography 🎥📸
 
-## 📫 How to reach me
+## 📫 Connect with me
 
-- 📧 juanigiannone@gmail.com  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-ignacio-giannone-077a27267)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:juanignannone@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:juanigiannone@gmail.com)
 
 ---
 
