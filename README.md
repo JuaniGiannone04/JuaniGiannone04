@@ -6,6 +6,11 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,git,bash,regex,replit,vscode,linux,ubuntu,windows,notion)](https://skillicons.dev)
 
+## 🚀 Projects
+
+[![Mis Programas Personales](https://github-readme-stats.vercel.app/api/pin/?username=JuaniGiannone04&repo=mis-programas-personales&theme=dark)](https://github.com/JuaniGiannone04/mis-programas-personales)
+
+
 ## > "This is fine."
 
 <p align="center">
