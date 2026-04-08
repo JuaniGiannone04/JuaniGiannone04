@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Juan Ignacio Giannone ⚽🏃‍♂️
 
-I'm currently studying **Computer Systems Analysis** at **University of Buenos Aires**.
+I'm currently studying **Computer Engineering** at the **University of Buenos Aires**
 
 ## 💻 My skills
 
