@@ -2,15 +2,16 @@
 
 I'm currently studying **Computer Systems Analysis** at **University of Buenos Aires**.
 
+## 💻 My skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,git,bash,regex,replit,vscode,linux,ubuntu,windows,notion)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNwZWNyOG51eDRsc2IxMHBiZXloOGJicmhtenl0amczbmVrYjJmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="400"/>
 </p>
 
+> "This is fine."
 
-## 💻 My skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,git,bash,regex,replit,vscode,linux,ubuntu,windows,notion)](https://skillicons.dev)
 
 ## 🧠 Interests
 
