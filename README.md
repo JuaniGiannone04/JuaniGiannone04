@@ -10,7 +10,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 - Algorithms and data structures
 - Learning new technologies
-- Backend development                                                                                                                       ![This is fine (https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+- Backend development
 - Occasional video editing and photography 🎥📸
 
 ## 📫 Connect with me
@@ -21,3 +21,5 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 ---
 
 > *"Always learning, always building."*
+
+![This is fine](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
