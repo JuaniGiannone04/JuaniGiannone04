@@ -20,3 +20,6 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 > *"Always learning, always building."*
 
+
+
+![Subway Surfers](https://media.giphy.com/media/...)
