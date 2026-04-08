@@ -8,7 +8,9 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 ## 🧠 Interests
 
-- Writing efficient software (algorithms and data structures)
+- Algorithms and data structures
+- Learning new technologies
+- Backend development                                                                                                                       ![This is fine (https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 - Occasional video editing and photography 🎥📸
 
 ## 📫 Connect with me
