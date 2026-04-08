@@ -4,7 +4,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 ## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?c,git,java,linux,notion,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,java,linux,notion,py,)](https://skillicons.dev)
 
 ## 🧠 Interests
 
