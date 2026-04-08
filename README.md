@@ -16,10 +16,8 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 - 📧 juanigiannone@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/juan-ignacio-giannone-077a27267)
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-ignacio-giannone-077a27267)
+
 ---
 
 > *"Always learning, always building."*
-
-
-
-![Subway Surfers](https://media.giphy.com/media/...)
