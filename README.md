@@ -8,7 +8,7 @@ I'm currently studying **Computer Systems Analysis** at **University of Buenos A
 
 ## 🚀 Projects
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github)](https://github.com/JuaniGiannone04/mis-programas-personales)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JuaniGiannone04/mis-programas-personales)
 
 
 ## > "This is fine."
